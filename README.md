@@ -159,6 +159,6 @@ Feel free to contribute additional functionality (e.g., advanced trajectory meth
 
 ## License and Citation
 
-This pipeline is provided as-is. You’re free to reuse and modify. If you find it helpful in academic research, please cite relevant Scanpy references and mention this code repository.
+This pipeline is inspired from evanpeikon's take on scRNA-seq analysis and provided as-is. You’re free to reuse and modify. If you find it helpful in academic research, please cite relevant Scanpy references and mention this code repository.
 
 ### Happy single-cell analyzing!
