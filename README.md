@@ -2,6 +2,7 @@
 # Overview
 
 ![Diffusion Pseudotime](results/output_0_21.png)
+
 This repository presents a robust, end-to-end single-cell RNA-sequencing (scRNA-seq) analysis pipeline built in Python using **Scanpy**. It provides:
 
 - Automated data fetch and merge from GEO (10x-like format).
